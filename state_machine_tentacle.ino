@@ -1,3 +1,6 @@
+//// Soft Robotic Tentacle for adaptive gait  ////
+//// Methods for low level control ////
+//// Jose Barreiros, 2018  ////
 
 class DCMotor
 {
